@@ -3,6 +3,7 @@
 // @namespace   asldufhiu32hr9283hf83123
 // @author       lokpro
 // @include     https://opr.ingress.com/recon*
+// @include     https://wayfarer.nianticlabs.com/review*
 // @downloadURL https://github.com/Ingrass/OPR_mapZoom_noNeedCtrl/raw/master/OPR_mapZoom_noNeedCtrl.user.js
 // @updateURL https://github.com/Ingrass/OPR_mapZoom_noNeedCtrl/raw/master/OPR_mapZoom_noNeedCtrl.user.js
 // @version     1.2
@@ -10,6 +11,7 @@
 // ==/UserScript==
 
 /*
+v1.3 support for 'wayfarer'
 v1.2 bug fix
 v1.1 added support for Map in 'Portal Edit'
 */
